@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/adyang/ansible-apache-molecule.svg?branch=master)](https://travis-ci.org/adyang/ansible-apache-molecule)
+
 Role Name
 =========
 
