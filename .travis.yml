@@ -4,6 +4,8 @@ python:
   - "3.6"
 services:
   - docker
+before_install:
+  - docker pull milcom/centos7-systemd
 install:
   - pip install molecule==2.22rc3 docker
 script:
